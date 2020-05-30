@@ -15,7 +15,7 @@ API_VERSIONS = {
 
 class RiotAPI(object):
     def __init__(self):
-        self.api_key = "RGAPI-b099691a-365b-4e30-b100-9faedcc5e375"
+        self.api_key = "RGAPI-eaada88f-6ba5-4b1a-bead-890b93b03ff9"
         self.region = "kr"
 
     def _request(self,api_url,params={}):
