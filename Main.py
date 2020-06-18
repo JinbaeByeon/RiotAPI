@@ -30,7 +30,6 @@ def process_GetName():
     SummonerName = eName.get()
     print(SummonerName)
     r= api.get_summoner_by_name(SummonerName)
-<<<<<<< HEAD
     user.getInfo(api.get_league_by_summonerID(r['id']))
 
     imgSolo = Image.open(IMAGE[user.Info['솔로랭크']['티어']])  # IMAGE[user.Info['자유랭크']['티어']]
@@ -74,27 +73,6 @@ def process_SendEmail():
         s.close()
         print("Mail sending complete!!!")
 
-=======
-    r2 = api.get_league_by_summonerID(r['id'])
-    Information = {
-        '자유랭크' :{
-            '티어': r2[0]['tier'],
-            '랭크': r2[0]['rank'],
-            '점수': r2[0]['leaguePoints'],
-            '승': r2[0]['wins'],
-            '패': r2[0]['losses']
-        },
-        '솔로랭크':{
-            '티어': r2[1]['tier'],
-            '랭크': r2[1]['rank'],
-            '점수': r2[1]['leaguePoints'],
-            '승': r2[1]['wins'],
-            '패': r2[1]['losses']
-        }
-    }
-
-    print(Information)
->>>>>>> ca74edd411edc75934c15acf982f31ca56596dab
 
 
 def InitMainText():
