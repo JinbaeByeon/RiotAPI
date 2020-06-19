@@ -4,6 +4,7 @@ from tkinter import *
 from tkinter import font
 from PIL import Image, ImageTk
 import spam
+from distutils.core import setup
 
 import smtplib
 from email.mime.multipart import MIMEMultipart
