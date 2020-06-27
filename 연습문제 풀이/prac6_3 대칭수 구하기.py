@@ -7,7 +7,7 @@ def reverse(number):
     return result
 
 def isPalindrome(number):
-    return number == reverse(number):
+    return number == reverse(number)
 
 
 i = int(input("정수를 입력하세요: "))
