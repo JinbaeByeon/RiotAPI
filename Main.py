@@ -4,14 +4,12 @@ from tkinter import *
 from tkinter import font
 from PIL import Image, ImageTk
 import spam
-from distutils.core import setup
 
 import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 smtpHost = "smtp.gmail.com"
 port = "587"
-
 import telepot
 bot = telepot.Bot('1217513157:AAFvzaHyy3zGSTWBcjFtarvX49BkfO9Yfhw')
 
@@ -43,6 +41,7 @@ def process_GetName():
     SoloLabel.configure(text=str(user.Info['솔로랭크']['티어']+" "+user.Info['솔로랭크']['랭크']+" "+str(user.Info['솔로랭크']['점수'])))
     win = user.Info['솔로랭크']['승']
     lose = user.Info['솔로랭크']['패']
+
     WinRateSolo.configure(text= str(str(win+lose)+"전 "+str(win)+"승 "+str(lose)+"패\n (" + str(round(spam.percentage(win,lose),2))+"%)"))
 
     imgSolo = Image.open(IMAGE[user.Info['솔로랭크']['티어']])  # IMAGE[user.Info['자유랭크']['티어']]

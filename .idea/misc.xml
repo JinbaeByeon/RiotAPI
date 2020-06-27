@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.5.2 (C:\Users\A35X\AppData\Local\Programs\Python\Python35\python.exe)" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6 (RiotAPI)" project-jdk-type="Python SDK" />
+>>>>>>> 7635ba14f1f343c057fad38a08e5853bf4b24249
 </project>

@@ -1,19 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a78ddcf6-e26d-4f33-990f-b3cae30aa739" name="Default" comment="">
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/RiotAPI.iml" afterPath="$PROJECT_DIR$/.idea/RiotAPI.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/연습문제 풀이/prac6_3 대칭수 구하기.py" afterPath="$PROJECT_DIR$/연습문제 풀이/prac6_3 대칭수 구하기.py" />
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/RiotAPI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/RiotAPI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RiotAPI.py" beforeDir="false" afterPath="$PROJECT_DIR$/RiotAPI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserData.py" beforeDir="false" afterPath="$PROJECT_DIR$/UserData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/전적.txt" beforeDir="false" afterPath="$PROJECT_DIR$/전적.txt" afterDir="false" />
+>>>>>>> 7635ba14f1f343c057fad38a08e5853bf4b24249
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -127,6 +157,8 @@
       </file>
     </leaf>
   </component>
+=======
+>>>>>>> 7635ba14f1f343c057fad38a08e5853bf4b24249
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -138,6 +170,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -219,9 +252,19 @@
         </subPane>
       </pane>
     </panes>
+=======
+  <component name="ProjectId" id="1dr7Yaa3LdufkHB2cjBQ1ZGhWSH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+>>>>>>> 7635ba14f1f343c057fad38a08e5853bf4b24249
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../Program Files/Python36/python.exe" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="C:/Program Files/Python36/python.exe" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
@@ -239,6 +282,12 @@
   </component>
   <component name="RunManager" selected="Python.Main">
     <configuration default="false" name="test4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+  </component>
+  <component name="RunManager" selected="Python.Main">
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python">
+      <module name="RiotAPI" />
+>>>>>>> 7635ba14f1f343c057fad38a08e5853bf4b24249
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -249,6 +298,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <module name="RiotAPI" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/연습문제 풀이/test4.py" />
       <option name="PARAMETERS" value="" />
@@ -458,6 +508,19 @@
       <method />
     </configuration>
     <configuration default="false" name="Main" type="PythonConfigurationType" factoryName="Python">
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RiotAPI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RiotAPI" />
+>>>>>>> 7635ba14f1f343c057fad38a08e5853bf4b24249
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -468,7 +531,18 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RiotAPI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teller" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RiotAPI" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -489,11 +563,38 @@
         <item index="2" class="java.lang.String" itemvalue="Python.test4" />
         <item index="3" class="java.lang.String" itemvalue="Python.test2" />
         <item index="4" class="java.lang.String" itemvalue="Python.test1" />
+=======
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teller.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Main" />
+      <item itemvalue="Python.teller" />
+      <item itemvalue="Python.RiotAPI" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.RiotAPI" />
+        <item itemvalue="Python.teller" />
+>>>>>>> 7635ba14f1f343c057fad38a08e5853bf4b24249
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\quswl\AppData\Roaming\Subversion</configuration>
@@ -517,6 +618,7 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
+<<<<<<< HEAD
   <component name="ToolWindowManager">
     <frame x="960" y="4" width="959" height="1036" extended-state="0" />
     <editor active="false" />
@@ -915,5 +1017,39 @@
         </state>
       </provider>
     </entry>
+=======
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1515" height="111" key="GridCell.Tab.0.bottom" timestamp="1593183924143">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="111" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593183924143" />
+    <state width="1515" height="111" key="GridCell.Tab.0.center" timestamp="1593183924142">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="111" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593183924142" />
+    <state width="1515" height="111" key="GridCell.Tab.0.left" timestamp="1593183924142">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="111" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593183924142" />
+    <state width="1515" height="111" key="GridCell.Tab.0.right" timestamp="1593183924142">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="111" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593183924142" />
+    <state x="410" y="86" width="981" height="738" key="SettingsEditor" timestamp="1593182670577">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="410" y="86" width="981" height="738" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593182670577" />
+>>>>>>> 7635ba14f1f343c057fad38a08e5853bf4b24249
   </component>
 </project>
